@@ -1,4 +1,4 @@
-🏋 BMI Calculator (Python + Tkinter)
+## 🏋 BMI Calculator (Python + Tkinter)
 
 A graphical BMI Calculator built with Python and Tkinter that allows users to:
 
@@ -10,11 +10,7 @@ Store BMI records in a CSV file for historical tracking
 
 Display a graph of past BMI values for all users using Matplotlib
 
-
-
----
-
-📌 Features
+# 📌 Features
 
 ✅ User-friendly GUI built with Tkinter
 ✅ Accurate BMI calculation using the formula:
@@ -28,9 +24,7 @@ BMI = weight (kg) / (height (m) ^ 2)
 ✅ Works for both beginners and advanced learners as per the project proposal
 
 
----
-
-📂 File Structure
+# 📂 File Structure
 
 📁 BMI-Calculator
  ├── bmi_calculator.py   # Main program file
@@ -38,9 +32,7 @@ BMI = weight (kg) / (height (m) ^ 2)
  ├── README.md           # Project documentation
 
 
----
-
-🛠 Requirements
+# 🛠 Requirements
 
 Make sure you have Python 3.x installed along with the required library:
 
@@ -48,7 +40,7 @@ pip install matplotlib
 
 (Tkinter comes pre-installed with Python on most systems)
 
-🚀 How to Run
+# 🚀 How to Run
 
 1. Clone the repository:git clone https://github.com/your-username/BMI-Calculator.git
 
@@ -56,13 +48,13 @@ pip install matplotlib
 
 3. Run the program:python bmi_calculator.py
 
-📊 Example Usage
+# 📊 Example Usage
 
 1. Enter your name, weight, and height
 2. Click "Calculate BMI" to see your result and category
 3. Click "Show BMI History Graph" to view all saved BMI records plotted by name
 
-📈 BMI Categories Used
+# 📈 BMI Categories Used
 
 Category	BMI Range
 
@@ -72,7 +64,7 @@ Overweight	25 – 29.9
 Obese	≥ 30
 --
 
-🏆 Project Proposal Fulfillment
+# 🏆 Project Proposal Fulfillment
 
 This project meets all beginner and advanced requirements from the "Python Programming BMI Calculator Proposal" including:
 
